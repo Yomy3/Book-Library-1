@@ -1,0 +1,5 @@
+D:\03 ProjBook_Study_Final\Projec_Book\Project_Book.Model\obj\Debug\net5.0\Project_Book.Model.csproj.AssemblyReference.cache
+D:\03 ProjBook_Study_Final\Projec_Book\Project_Book.Model\obj\Debug\net5.0\Project_Book.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\03 ProjBook_Study_Final\Projec_Book\Project_Book.Model\obj\Debug\net5.0\Project_Book.Model.AssemblyInfoInputs.cache
+D:\03 ProjBook_Study_Final\Projec_Book\Project_Book.Model\obj\Debug\net5.0\Project_Book.Model.AssemblyInfo.cs
+D:\03 ProjBook_Study_Final\Projec_Book\Project_Book.Model\obj\Debug\net5.0\Project_Book.Model.csproj.CoreCompileInputs.cache

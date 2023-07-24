@@ -1,0 +1,15 @@
+D:\03 ProjBook_Study_Final\Projec_Book\Project_Book.Repository\bin\Debug\net7.0\Project_Book.Repository.deps.json
+D:\03 ProjBook_Study_Final\Projec_Book\Project_Book.Repository\bin\Debug\net7.0\Project_Book.Repository.dll
+D:\03 ProjBook_Study_Final\Projec_Book\Project_Book.Repository\bin\Debug\net7.0\Project_Book.Repository.pdb
+D:\03 ProjBook_Study_Final\Projec_Book\Project_Book.Repository\bin\Debug\net7.0\Project_Book.Model.dll
+D:\03 ProjBook_Study_Final\Projec_Book\Project_Book.Repository\bin\Debug\net7.0\Project_Book.Model.pdb
+D:\03 ProjBook_Study_Final\Projec_Book\Project_Book.Repository\obj\Debug\net7.0\Project_Book.Repository.csproj.AssemblyReference.cache
+D:\03 ProjBook_Study_Final\Projec_Book\Project_Book.Repository\obj\Debug\net7.0\Project_Book.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\03 ProjBook_Study_Final\Projec_Book\Project_Book.Repository\obj\Debug\net7.0\Project_Book.Repository.AssemblyInfoInputs.cache
+D:\03 ProjBook_Study_Final\Projec_Book\Project_Book.Repository\obj\Debug\net7.0\Project_Book.Repository.AssemblyInfo.cs
+D:\03 ProjBook_Study_Final\Projec_Book\Project_Book.Repository\obj\Debug\net7.0\Project_Book.Repository.csproj.CoreCompileInputs.cache
+D:\03 ProjBook_Study_Final\Projec_Book\Project_Book.Repository\obj\Debug\net7.0\Project_Book.Repository.csproj.CopyComplete
+D:\03 ProjBook_Study_Final\Projec_Book\Project_Book.Repository\obj\Debug\net7.0\Project_Book.Repository.dll
+D:\03 ProjBook_Study_Final\Projec_Book\Project_Book.Repository\obj\Debug\net7.0\refint\Project_Book.Repository.dll
+D:\03 ProjBook_Study_Final\Projec_Book\Project_Book.Repository\obj\Debug\net7.0\Project_Book.Repository.pdb
+D:\03 ProjBook_Study_Final\Projec_Book\Project_Book.Repository\obj\Debug\net7.0\ref\Project_Book.Repository.dll
