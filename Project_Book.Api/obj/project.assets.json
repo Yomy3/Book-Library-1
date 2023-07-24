@@ -986,11 +986,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\03 ProjBook_Study_Final\\Projec_Book\\Project_Book.Api\\Project_Book.Api.csproj",
+      "projectUniqueName": "C:\\Users\\35193\\Desktop\\Repos\\Library\\Project_Book.Api\\Project_Book.Api.csproj",
       "projectName": "Project_Book.Api",
-      "projectPath": "D:\\03 ProjBook_Study_Final\\Projec_Book\\Project_Book.Api\\Project_Book.Api.csproj",
+      "projectPath": "C:\\Users\\35193\\Desktop\\Repos\\Library\\Project_Book.Api\\Project_Book.Api.csproj",
       "packagesPath": "C:\\Users\\35193\\.nuget\\packages\\",
-      "outputPath": "D:\\03 ProjBook_Study_Final\\Projec_Book\\Project_Book.Api\\obj\\",
+      "outputPath": "C:\\Users\\35193\\Desktop\\Repos\\Library\\Project_Book.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1012,8 +1012,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\03 ProjBook_Study_Final\\Projec_Book\\Project_Book.Service\\Project_Book.Service.csproj": {
-              "projectPath": "D:\\03 ProjBook_Study_Final\\Projec_Book\\Project_Book.Service\\Project_Book.Service.csproj"
+            "C:\\Users\\35193\\Desktop\\Repos\\Library\\Project_Book.Service\\Project_Book.Service.csproj": {
+              "projectPath": "C:\\Users\\35193\\Desktop\\Repos\\Library\\Project_Book.Service\\Project_Book.Service.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\03 ProjBook_Study_Final\\Projec_Book\\Project_Book.Model\\Project_Book.Model.csproj": {}
+    "C:\\Users\\35193\\Desktop\\Repos\\Library\\Project_Book.Model\\Project_Book.Model.csproj": {}
   },
   "projects": {
-    "D:\\03 ProjBook_Study_Final\\Projec_Book\\Project_Book.Model\\Project_Book.Model.csproj": {
+    "C:\\Users\\35193\\Desktop\\Repos\\Library\\Project_Book.Model\\Project_Book.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\03 ProjBook_Study_Final\\Projec_Book\\Project_Book.Model\\Project_Book.Model.csproj",
+        "projectUniqueName": "C:\\Users\\35193\\Desktop\\Repos\\Library\\Project_Book.Model\\Project_Book.Model.csproj",
         "projectName": "Project_Book.Model",
-        "projectPath": "D:\\03 ProjBook_Study_Final\\Projec_Book\\Project_Book.Model\\Project_Book.Model.csproj",
+        "projectPath": "C:\\Users\\35193\\Desktop\\Repos\\Library\\Project_Book.Model\\Project_Book.Model.csproj",
         "packagesPath": "C:\\Users\\35193\\.nuget\\packages\\",
-        "outputPath": "D:\\03 ProjBook_Study_Final\\Projec_Book\\Project_Book.Model\\obj\\",
+        "outputPath": "C:\\Users\\35193\\Desktop\\Repos\\Library\\Project_Book.Model\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
