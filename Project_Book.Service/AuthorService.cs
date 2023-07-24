@@ -13,9 +13,7 @@ namespace Project_Book.Service
         private readonly IAuthorRepository _authorRepository= new AuthorRepositorySQL();
         public Author Create(Author author)
         {
-            _authorRepository.Create(author);
-
-            return null;
+            return _authorRepository.Create(author); ;
         }
 
         public void Delete(int id)
